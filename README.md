@@ -1,11 +1,18 @@
 # Filter App [![TestFlight Beta invite](https://img.shields.io/badge/TestFlight-Beta-blue.svg)](https://www.filterApp.io/ios/beta/) [![GitHub issues](https://img.shields.io/github/issues/home-assistant/iOS.svg?style=flat)](https://github.com/Abdullah-Sheikh/FilterApp/issues) [![License Apache 2.0](https://img.shields.io/badge/license-Apache%202.0-green.svg?style=flat)](https://github.com/home-assistant/iOS/blob/master/LICENSE)
 
+## Version 
+
+[![Xcode Version 7.3.1](https://img.shields.io/badge/TestFlight-Beta-blue.svg)](https://www.filterApp.io/ios/beta/) [![GitHub issues](https://img.shields.io/github/issues/home-assistant/iOS.svg?style=flat)](https://github.com/Abdullah-Sheikh/FilterApp/issues)
+
+
 ## App Preview
 
-
 ![GitHub Logo](i1.png)
+
 ![GitHub Logo](i2.png)
+
 ![GitHub Logo](i3.png)
+
 ![GitHub Logo](i4.png)
 
 
