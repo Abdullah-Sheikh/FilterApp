@@ -1,9 +1,12 @@
 # Filter App [![TestFlight Beta invite](https://img.shields.io/badge/TestFlight-Beta-blue.svg)](https://www.filterApp.io/ios/beta/) [![GitHub issues](https://img.shields.io/github/issues/Abdullah-Sheikh/FilterApp.svg?style=flat)](https://github.com/Abdullah-Sheikh/FilterApp/issues) [![License Apache 2.0](https://img.shields.io/badge/license-Apache%202.0-green.svg?style=flat)](https://github.com/home-assistant/iOS/blob/master/LICENSE)
 
-## Version 
 
-Xcode version 7.3.1 
-Swift 2
+Filter App (IOS)  🚀😊
+Xcode 7.3.1 and Swift 2
+Happy Coding 😊❤️🚀
+
+
+
 
 
 ## App Preview
@@ -15,6 +18,12 @@ Swift 2
 ![GitHub Logo](i3.png)
 
 ![GitHub Logo](i4.png)
+
+
+## Version 
+
+Xcode version 7.3.1 
+Swift 2
 
 
 Feel free to Star or Fork it and make your changes , then make pull request.
